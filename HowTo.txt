@@ -1,0 +1,5 @@
+1) to create environment : conda create -p {Environment name} python=={python version to use like 3.9, 3.98 etc}
+2) Activating the env : conda activate newEnv/
+3) Create an empty repository on GitHub
+4) install the requirements : pip install -r requirements.txt
+5) Creating setup.py file : python setup.py install (do it after writing all the codes in setup.py)
